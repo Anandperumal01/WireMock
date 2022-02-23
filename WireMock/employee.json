@@ -1,0 +1,18 @@
+[
+{
+"id":1,
+"name":"vicky",
+"Dept":"performance testing"
+},
+{
+"id":2,
+"name":"John",
+"Dept":"automation testing"
+},
+{
+  "id": 3,
+  "name": "Mike",
+  "Dept": "etl testing"
+}
+]
+
